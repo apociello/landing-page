@@ -68,6 +68,41 @@ a {
     width: 500px;
 }
 
-img {
-    width: 50px
+.box2 {
+    padding: 0 150px 15px;
+    text-align: center;
+}
+
+h1 {
+    padding: 8px;
+    margin-bottom: 8px;
+    color: #1F2937;
+}
+
+.content2 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.subbox {
+    flex-basis: 150px;
+}
+
+.subbox img {
+    width: 150px;
+    height: 150px;
+}
+
+
+.box3 {
+    background-color: #E5E7EB;
+    padding: 20px 150px 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    text-align: center;
+}
+
+.size3 {
+    font-size: 24px;
 }
