@@ -6,6 +6,7 @@
 
 body {
     background-color: #1F2937;
+    font-family: "Roboto", sans-serif;;
 }
 
 .container {
@@ -82,14 +83,14 @@ a:hover {
 }
 
 .box2 {
-    padding: 0 150px 15px;
+    padding: 0 150px 20px;
     text-align: center;
     background-color: white;
 }
 
 h1 {
     padding: 8px;
-    margin-bottom: 8px;
+    margin: 8px 8px 16px 8px;
     color: #1F2937;
 }
 
@@ -107,6 +108,9 @@ h1 {
     height: 150px;
 }
 
+.minititle {
+    margin: 5px 0;
+}
 
 .box3 {
     background-color: #E5E7EB;
