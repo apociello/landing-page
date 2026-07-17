@@ -1,1 +1,10 @@
-This is a landing page project built with HTML and CSS based on a provided design.
+# Landing Page
+
+A SpaceX-inspired landing page built with Flexbox.
+
+🔗 [Live Demo](https://apociello.github.io/landing-page/)
+
+## Built with
+
+- HTML
+- CSS
